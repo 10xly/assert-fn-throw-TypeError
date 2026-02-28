@@ -1,0 +1,30 @@
+{
+  "name": "assert-fn-throw-typeerror",
+  "version": "1.0.0",
+  "description": "Wrapper for assert-fn that makes it throw a TypeError instead of an assertion error",
+  "keywords": [
+    "TypeError",
+    "throw",
+    "assert",
+    "assertions"
+  ],
+  "homepage": "https://github.com/10xly/assert-fn-throw-typeerror#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/assert-fn-throw-typeerror/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/assert-fn-throw-typeerror.git"
+  },
+  "license": "MIT",
+  "author": "10x'y Made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "blank-space": "^0.0.1",
+    "immediate-error": "^11.1.3"
+  }
+}
