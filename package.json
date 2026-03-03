@@ -26,9 +26,5 @@
   "dependencies": {
     "blank-space": "^0.0.1",
     "immediate-error": "^11.1.3"
-  },
-  "devDependencies": {
-    "@10xly/eslint-config": "*",
-    "eslint": "latest"
   }
 }
